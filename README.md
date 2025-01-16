@@ -8,5 +8,5 @@ This is the backend API for a stock market web application. The backend is built
 - **Error handling**: Returns a 400 error if no stock symbol is provided or if the symbol is not found.
 - **Future feature**: In the future, we plan to implement a notification system that will alert users when a stock's price changes beyond a specified threshold.
 
-## Installation
+
 
